@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "crud avec nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./dist/server.js"
+  },
+  "author": "onitiana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}

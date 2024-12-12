@@ -1,0 +1,29 @@
+ GIT CLI
+ git init : initialisation git local
+ git add nomfichier.txt : ajout du fichier
+ git branch -M main : création branche pple
+ git remote origin lienGit : mlier anle projet amle git
+ git commit -m "ilay action natao tamle fichier ex: affichage"
+ git push : mis à jour anle amle github
+
+
+ Node
+ npm init
+
+
+ * express : librairiehamelomana anle server
+ npm install express
+
+
+
+ initialisation Type script
+ npm install --save-dev @types/express : dépendance poour le typscript (tsc -v)
+
+
+ anaty ts no manoratra,fa avadika js
+ tsc server.ts && node server.js
+
+ npm start 
+ tsc init : pour configurer le tsc
+
+ // win+R : services.msc : pour démarrer mongodb server
