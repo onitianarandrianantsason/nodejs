@@ -1,10 +1,10 @@
  GIT CLI
  git init : initialisation git local
  git add nomfichier.txt : ajout du fichier
- git branch -M main : création branche pple
+ git branch -M main : création branche pple (-M tsy asina rehfa tsy pple )
  git remote origin lienGit : mlier anle projet amle git
  git commit -m "ilay action natao tamle fichier ex: affichage"
- git push : mis à jour anle amle github
+ git push origin main: mis à jour anle amle github
 
 
  Node
